@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage":"http://Developer-FIXER.github.io/FlappyBird",
+  "homepage":"https://developer-fixer.github.io/FlappyBird/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
